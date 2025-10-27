@@ -1,0 +1,5 @@
+routes : ye express routing ke liye folder bnaya h 
+public : static file k liye jese js or css koi external file attach krna
+models: models ki schema files k liye
+views: designing k liye ejs files
+utils: utilities k liye
